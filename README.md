@@ -175,12 +175,11 @@ Linear Regression, Ridge, and Lasso again showed similar performance, with test 
 
 ##  Project Outline  
 
-- [Notebook 1 – Data Preparation]()  
-- [Notebook 2 – EDA & Visualization]()  
-- [Notebook 3 – Modeling & Results]()  
+- [Notebook 1 – Data Preparation](https://github.com/chaitanyakalidindi/Final_AIML/blob/main/Data_Cleaning.ipynb)  
+- [Notebook 2 – EDA & Visualization](https://github.com/chaitanyakalidindi/Final_AIML/blob/main/Exploratory_data_Analysis.ipynb)  
+- [Notebook 3 – Modeling & Results](https://github.com/chaitanyakalidindi/Final_AIML/blob/main/Model_Building.ipynb)  
 
 ---
 
 ##  Contact & Further Information  
-
-For questions or collaboration, please reach out to the project authors.  
+Email: chaitanya.satwik@gmail.com
