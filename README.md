@@ -1,7 +1,7 @@
 
 # Housing Price Index – Microeconomic Factors  
 
-**Authors:** Sathwika Varma Kalidindi, Chaitanya  
+**Authors:** Sathwika Varma Kalidindi Chaitanya  
 
 ---
 
